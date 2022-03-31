@@ -1,6 +1,6 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=nmarandi" alt="nmarandi">
+<!-- <img align ="right" src="https://komarev.com/ghpvc/?username=nmarandi" alt="nmarandi"> -->
 <h1 align="center">Hi 👋, I'm Nader</h1>
-🔭 I’m currently working on <a href="https://www.samimgroup.com/">Samim Group</a> as an Embedded Software Developer.
+🔭 I’m currently working at <a href="https://www.samimgroup.com/">Samim Group</a> as an Embedded Software Developer.
 
 🌱 I’m currently learning Golang and Flutter.
 
