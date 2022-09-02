@@ -4,9 +4,10 @@
 
 🌱 I’m currently learning Golang and Flutter.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmarandi&show_icons=true&theme=algolia" alt="Nader Marandi's GitHub stats" /><br />
-</p>
+<a href="https://github.com/nmarandi/github-stats" >
+<img src="https://github.com/nmarandi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/nmarandi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
 <!--
 **nmarandi/nmarandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
