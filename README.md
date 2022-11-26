@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nader</h1>
 🔭 I’m currently working at <a href="https://www.samimgroup.com/">Samim Group</a> as an Embedded Software Developer.
 
-🌱 I’m currently learning Golang and Flutter.
-
 <a href="https://github.com/nmarandi/github-stats" >
 <img src="https://github.com/nmarandi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/nmarandi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
