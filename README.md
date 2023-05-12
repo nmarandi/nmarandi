@@ -1,6 +1,5 @@
 <!-- <img align ="right" src="https://komarev.com/ghpvc/?username=nmarandi" alt="nmarandi"> -->
 <h1 align="center">Hi 👋, I'm Nader</h1>
-🔭 I’m currently working at <a href="https://www.samimgroup.com/">Samim Group</a> as an Embedded Software Developer.
 
 <a href="https://github.com/nmarandi/github-stats" >
 <img src="https://github.com/nmarandi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
