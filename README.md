@@ -1,9 +1,9 @@
 <!-- <img align ="right" src="https://komarev.com/ghpvc/?username=nmarandi" alt="nmarandi"> -->
 <h1 align="center">Hi 👋, I'm Nader</h1>
 
-<a href="https://github.com/nmarandi/github-stats" >
-<img src="https://github.com/nmarandi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/nmarandi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="github-readme-stats-git-main-nmarandis-projects.vercel.app/api" >
+<img src="https://github-readme-stats-git-main-nmarandis-projects.vercel.app/api?username=nmarandi" />
+<img src="https://github-readme-stats-git-main-nmarandis-projects.vercel.app/api/top-langs/?username=nmarandi" />
 </a>
 
 <!--
