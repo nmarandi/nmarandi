@@ -7,8 +7,8 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **Software Engineer** with extensive experience across **automotive, embedded systems, and consultancy roles**.  
-Currently, I’m working at **Volvo Trucks (via Segula Technologies)** on **System Verification Engineering solutions**.  
+I'm a **Software Engineer** with extensive experience across **automotive, embedded systems, and consultancy roles**.  
+Currently, I'm working at **Volvo Trucks (via Segula Technologies)** on **System Verification Engineering solutions**.  
 Previously, I developed **HIL frameworks at Volvo Cars** and designed **hardware management systems and embedded Linux platforms at Samim Group**.  
 
 💡 Passionate about **automation, embedded development, and scalable architectures**.  
@@ -19,35 +19,37 @@ Previously, I developed **HIL frameworks at Volvo Cars** and designed **hardware
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=openjdk&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=flat&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=flat&logo=blazor&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4.svg?style=flat&logo=google&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=flat&logo=rust&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=c&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=openjdk&logoColor=white)  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=flat&logo=dotnet&logoColor=white)  
+![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=flat&logo=blazor&logoColor=white)  
+![gRPC](https://img.shields.io/badge/gRPC-4285F4.svg?style=flat&logo=google&logoColor=white)  
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4.svg?style=flat&logo=dotnet&logoColor=white)
 
 **Embedded & Automotive**  
-![Yocto](https://img.shields.io/badge/Yocto-000000.svg?style=flat&logo=linux&logoColor=white)
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-000000.svg?style=flat&logo=linux&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8000.svg?style=flat&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-FF8000.svg?style=flat&logo=mathworks&logoColor=white)
+![Yocto](https://img.shields.io/badge/Yocto-000000.svg?style=flat&logo=linux&logoColor=white)  
+![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-000000.svg?style=flat&logo=linux&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8000.svg?style=flat&logo=mathworks&logoColor=white)  
+![Simulink](https://img.shields.io/badge/Simulink-FF8000.svg?style=flat&logo=mathworks&logoColor=white)  
 ![dSpace](https://img.shields.io/badge/dSpace-005BAC.svg?style=flat)
 
 **DevOps & Cloud**  
-![Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=flat&logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat&logo=azure-devops&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=flat&logo=microsoft-azure&logoColor=white)  
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat&logo=azure-devops&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat&logo=gitlab&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=flat&logo=ansible&logoColor=white)
 
 **Databases & Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat&logo=postgresql&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white)
 
 ---
