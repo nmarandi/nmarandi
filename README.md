@@ -21,8 +21,6 @@ Professional background includes 4 years at **Samim Group** developing embedded 
 
 Proficient in **Yocto/Bitbake**, **CMake**, **GStreamer**, **Qt**, **Boost**, **Poco**, communication protocols (**MQTT**, **MODBUS**, **REST API**, **gRPC**), and version control systems (**GitLab**, **Git**).
 
-🚀 **Actively seeking opportunities** in **embedded Linux development**, **Yocto-based systems**, **BSP development**, or **firmware engineering** roles where I can leverage my deep expertise in building robust embedded solutions.
-
 ---
 
 ## 🛠 Tech Stack
