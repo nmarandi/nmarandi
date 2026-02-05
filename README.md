@@ -9,17 +9,22 @@
 ---
 
 ## 👨‍💻 About Me
-**Embedded Software Engineer** specializing in **embedded Linux development** and **Yocto Project**. Proven expertise in designing and building **custom Linux distributions**, **hardware management systems**, and **low-level device drivers** using **C++** and **C**.
+**Software Engineer** with extensive experience across **automotive**, **embedded systems**, and **consultancy roles**. Currently developing scalable **System Verification Engineering solutions** at **Volvo Trucks**, with proven expertise spanning from **cloud-based verification platforms** to **low-level embedded Linux development**.
 
-Core competencies include:
-- 🔧 **Yocto Project**: Custom recipes, layers, BSP development, and build optimization
-- 💻 **Embedded Linux**: Kernel customization, device drivers, bootloaders, and system integration
-- 🛠️ **C++ Development**: Hardware abstraction layers, communication protocols (CAN, SPI, UART, I2C, Ethernet)
-- 📦 **System Integration**: SNMP agents, remote update frameworks, peripheral communications
+Professional background includes:
+- 🚗 **Automotive Systems**: Developing scalable verification solutions using **Microsoft Azure**, **C#**, **ASP.NET Core** for functional and non-functional system validation at **Volvo Trucks**
+- 🔧 **HIL Development**: Crafting HIL frameworks with **MATLAB/Simulink** and **dSpace tools**, managing CI/CD pipelines with **Jenkins/Gerrit/Zuul** at **Volvo Cars**
+- 💻 **Embedded Linux**: 4 years at **Samim Group** designing **hardware management systems**, **custom Yocto distributions**, and **device drivers** using **C++**
+- 📡 **Communication Protocols**: Implementing diagnostic protocols (**SOVD**, **UDS**), automotive testing (**CANoe**, **CAPL**), and industrial protocols (**CAN Bus**, **gRPC**, **MQTT**, **MODBUS**)
 
-Professional background includes 4 years at **Samim Group** developing embedded Linux solutions, plus experience with automotive HIL frameworks at **Volvo Cars** and system verification at **Volvo Trucks**.
+Core technical competencies:
+- **Cloud & Backend**: Microsoft Azure, C#, ASP.NET Core, Blazor, SignalR, gRPC, Azure DevOps, Azure Service Bus
+- **Automotive & Testing**: MATLAB/Simulink, dSpace tools, CANoe/CAPL, SystemWeaver, Robot Framework
+- **Embedded Systems**: Yocto Project, custom Linux distributions, kernel customization, device drivers, bootloaders
+- **Programming**: C++, C#, Python, C, with expertise in CMake, Qt, Boost, Poco, GStreamer
+- **Databases**: PostgreSQL, Neo4j (Graph Database), Redis
 
-Proficient in **Yocto/Bitbake**, **CMake**, **GStreamer**, **Qt**, **Boost**, **Poco**, communication protocols (**MQTT**, **MODBUS**, **REST API**, **gRPC**), and version control systems (**GitLab**, **Git**).
+Recognized for enhancing processes through automation, efficient development workflows, infrastructure optimization, and integration of new technologies. Seeking opportunities to apply expertise to challenging projects in **system architecture**, **embedded development**, or **innovative technology platforms** within tech-forward industries.
 
 ---
 
