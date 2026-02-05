@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-**Embedded Software Engineer** specializing in **embedded Linux development** and **Yocto Project**. Proven expertise in designing and building **custom Linux distributions**, **hardware management systems**, and **low-level device drivers** using **C++** and **C**. 
+**Embedded Software Engineer** specializing in **embedded Linux development** and **Yocto Project**. Proven expertise in designing and building **custom Linux distributions**, **hardware management systems**, and **low-level device drivers** using **C++** and **C**.
 
 Core competencies include:
 - 🔧 **Yocto Project**: Custom recipes, layers, BSP development, and build optimization
@@ -59,7 +59,7 @@ Proficient in **Yocto/Bitbake**, **CMake**, **GStreamer**, **Qt**, **Boost**, **
 - Created and maintained **embedded Linux software** using **Yocto Project** tools and methodologies across multiple product lines
 - Crafted custom **Yocto recipes, layers, and images** for diverse hardware platforms including ARM-based SoMs and custom boards
 - Integrated and configured open-source software components and libraries into Yocto-based systems
-- Optimized Yocto build process, resulting in **significantly faster build times** through parallel builds and ccache optimization
+- Optimized Yocto build process, achieving **30-40% faster build times** through parallel builds, ccache optimization, and shared state cache configuration
 - Integrated Yocto into development workflow using **GitLab** version control with automated build pipelines
 - Designed and built **custom Linux images** tailored to project requirements, including kernel configurations, root filesystems, and package selections
 - Developed comprehensive framework for **remote updates** of boards (System on Modules, Microcontrollers, FPGAs) with rollback capabilities
@@ -139,7 +139,7 @@ Proficient in **Yocto/Bitbake**, **CMake**, **GStreamer**, **Qt**, **Boost**, **
 
 - **Hardware Management System** – Comprehensive embedded C++ platform with SNMP agent (Agent++/Agentx++) for hardware monitoring, control, and network management across diverse embedded devices
 - **Custom Yocto Linux Distributions** – Built tailored Linux images for ARM-based SoMs and custom hardware platforms with optimized boot times, custom kernel configurations, and integrated peripheral support
-- **Remote Update Framework** – Secure **swupdate-based** OTA solution for System on Modules, microcontrollers, and FPGAs with A/B partition scheme and automatic rollback on failure
+- **Remote Update Framework** – Secure **swupdate-based** OTA solution for SoMs, microcontrollers, and FPGAs with A/B partition scheme and automatic rollback on failure
 - **Video Switcher (BT1120)** – High-performance video routing system using **C++**, **GStreamer**, and BT1120 protocol for real-time video stream management and switching
 - **Low-Level Communication Libraries** – Reusable C++ libraries providing hardware abstraction for **CAN**, **SPI**, **UART**, **I2C**, and **Ethernet** peripherals with robust error handling
 - **Audio Processing System** – Intercommunication platform with custom **Sound Card Driver**, **Automatic Gain Control**, and **WebRTC** integration for real-time audio streaming
