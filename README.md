@@ -9,39 +9,69 @@
 ---
 
 ## 👨‍💻 About Me
-A skilled **Software Engineer** with extensive experience across **automotive, embedded systems, and consultancy roles**. Professional background includes developing scalable **System Verification Engineering solutions** at **Volvo Trucks**, crafting **HIL frameworks** at **Volvo Cars**, and designing **hardware management systems** and **embedded Linux software** at **Samim Group**.
+**Embedded Software Engineer** specializing in **embedded Linux development** and **Yocto Project**. Proven expertise in designing and building **custom Linux distributions**, **hardware management systems**, and **low-level device drivers** using **C++** and **C**. 
 
-Proficient in technologies such as **Microsoft Azure**, **C#**, **ASP.NET Core**, **MATLAB/Simulink**, **dSpace tools**, **Yocto Project**, **C++**, and various communication protocols including **CAN Bus**, **gRPC**, **SOVD**, and **UDS**.
+Core competencies include:
+- 🔧 **Yocto Project**: Custom recipes, layers, BSP development, and build optimization
+- 💻 **Embedded Linux**: Kernel customization, device drivers, bootloaders, and system integration
+- 🛠️ **C++ Development**: Hardware abstraction layers, communication protocols (CAN, SPI, UART, I2C, Ethernet)
+- 📦 **System Integration**: SNMP agents, remote update frameworks, peripheral communications
 
-Recognized for enhancing processes through **automation**, efficient development workflows, infrastructure optimization, and integration of new technologies.
+Professional background includes 4 years at **Samim Group** developing embedded Linux solutions, plus experience with automotive HIL frameworks at **Volvo Cars** and system verification at **Volvo Trucks**.
 
-🚀 Seeking opportunities to apply expertise to challenging projects in **system architecture**, **embedded development**, or innovative technology platforms within **tech-forward industries**.
+Proficient in **Yocto/Bitbake**, **CMake**, **GStreamer**, **Qt**, **Boost**, **Poco**, communication protocols (**MQTT**, **MODBUS**, **REST API**, **gRPC**), and version control systems (**GitLab**, **Git**).
+
+🚀 **Actively seeking opportunities** in **embedded Linux development**, **Yocto-based systems**, **BSP development**, or **firmware engineering** roles where I can leverage my deep expertise in building robust embedded solutions.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**  
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=openjdk&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=flat&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=flat&logo=blazor&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4.svg?style=flat&logo=google&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-512BD4.svg?style=flat&logo=dotnet&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=flat&logo=qt&logoColor=white) ![Boost](https://img.shields.io/badge/Boost-FB7928.svg?style=flat&logo=boost&logoColor=white) ![Poco](https://img.shields.io/badge/Poco-003D5B.svg?style=flat&logoColor=white)
+**Embedded Linux & Build Systems**  
+![Yocto](https://img.shields.io/badge/Yocto-000000.svg?style=flat&logo=linux&logoColor=white) ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-000000.svg?style=flat&logo=linux&logoColor=white) ![Bitbake](https://img.shields.io/badge/Bitbake-000000.svg?style=flat&logo=linux&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=flat&logo=cmake&logoColor=white) ![Linux Kernel](https://img.shields.io/badge/Linux%20Kernel-FCC624.svg?style=flat&logo=linux&logoColor=black) ![Device Drivers](https://img.shields.io/badge/Device%20Drivers-000000.svg?style=flat&logo=linux&logoColor=white) ![swupdate](https://img.shields.io/badge/swupdate-4EAA25.svg?style=flat&logo=linux&logoColor=white)
 
-**Embedded & Automotive**  
-![Yocto](https://img.shields.io/badge/Yocto-000000.svg?style=flat&logo=linux&logoColor=white) ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-000000.svg?style=flat&logo=linux&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000.svg?style=flat&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-FF8000.svg?style=flat&logo=mathworks&logoColor=white) ![dSpace](https://img.shields.io/badge/dSpace-005BAC.svg?style=flat) ![CANoe](https://img.shields.io/badge/CANoe-00599C.svg?style=flat) ![CAPL](https://img.shields.io/badge/CAPL-00599C.svg?style=flat) ![CAN Bus](https://img.shields.io/badge/CAN%20Bus-1572B6.svg?style=flat) ![RTOS](https://img.shields.io/badge/RTOS-000000.svg?style=flat&logo=linux&logoColor=white) ![Keil](https://img.shields.io/badge/Keil-FF6600.svg?style=flat)
+**Core Languages & Frameworks**  
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=flat&logo=qt&logoColor=white) ![Boost](https://img.shields.io/badge/Boost-FB7928.svg?style=flat&logo=boost&logoColor=white) ![Poco](https://img.shields.io/badge/Poco-003D5B.svg?style=flat&logoColor=white) ![GStreamer](https://img.shields.io/badge/GStreamer-0000FF.svg?style=flat)
 
 **Protocols & Communication**  
-![SOVD](https://img.shields.io/badge/SOVD-4285F4.svg?style=flat) ![UDS](https://img.shields.io/badge/UDS-4285F4.svg?style=flat) ![SNMP](https://img.shields.io/badge/SNMP-326CE5.svg?style=flat) ![MQTT](https://img.shields.io/badge/MQTT-660066.svg?style=flat&logo=mqtt&logoColor=white) ![MODBUS](https://img.shields.io/badge/MODBUS-0078D7.svg?style=flat) ![REST API](https://img.shields.io/badge/REST%20API-009688.svg?style=flat) ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4.svg?style=flat) ![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=flat&logo=webrtc&logoColor=white)
+![CAN Bus](https://img.shields.io/badge/CAN%20Bus-1572B6.svg?style=flat) ![SPI](https://img.shields.io/badge/SPI-4285F4.svg?style=flat) ![I2C](https://img.shields.io/badge/I2C-326CE5.svg?style=flat) ![UART](https://img.shields.io/badge/UART-0078D7.svg?style=flat) ![Ethernet](https://img.shields.io/badge/Ethernet-009688.svg?style=flat) ![SNMP](https://img.shields.io/badge/SNMP-326CE5.svg?style=flat) ![MQTT](https://img.shields.io/badge/MQTT-660066.svg?style=flat&logo=mqtt&logoColor=white) ![MODBUS](https://img.shields.io/badge/MODBUS-0078D7.svg?style=flat) ![gRPC](https://img.shields.io/badge/gRPC-4285F4.svg?style=flat&logo=google&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-009688.svg?style=flat) ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4.svg?style=flat) ![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=flat&logo=webrtc&logoColor=white)
 
-**DevOps & Cloud**  
-![Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=flat&logo=microsoft-azure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat&logo=azure-devops&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=flat&logo=ansible&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=flat&logo=helm&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=flat&logo=nginx&logoColor=white)
+**RTOS & Microcontrollers**  
+![RTOS](https://img.shields.io/badge/RTOS-000000.svg?style=flat&logo=linux&logoColor=white) ![Keil](https://img.shields.io/badge/Keil-FF6600.svg?style=flat) ![ARM](https://img.shields.io/badge/ARM-0091BD.svg?style=flat&logo=arm&logoColor=white) ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-FF6600.svg?style=flat) ![FPGAs](https://img.shields.io/badge/FPGAs-8B0000.svg?style=flat)
 
-**Databases & Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat&logo=postgresql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1.svg?style=flat&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6.svg?style=flat&logo=influxdb&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white)
+**Automotive & Test Systems**  
+![CANoe](https://img.shields.io/badge/CANoe-00599C.svg?style=flat) ![CAPL](https://img.shields.io/badge/CAPL-00599C.svg?style=flat) ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000.svg?style=flat&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-FF8000.svg?style=flat&logo=mathworks&logoColor=white) ![dSpace](https://img.shields.io/badge/dSpace-005BAC.svg?style=flat) ![SOVD](https://img.shields.io/badge/SOVD-4285F4.svg?style=flat) ![UDS](https://img.shields.io/badge/UDS-4285F4.svg?style=flat)
 
-**Build & Development Tools**  
-![CMake](https://img.shields.io/badge/CMake-064F8C.svg?style=flat&logo=cmake&logoColor=white) ![Bitbake](https://img.shields.io/badge/Bitbake-000000.svg?style=flat&logo=linux&logoColor=white) ![Gerrit](https://img.shields.io/badge/Gerrit-EEEEEE.svg?style=flat) ![Zuul](https://img.shields.io/badge/Zuul-ED1C24.svg?style=flat) ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=jira&logoColor=white) ![SystemWeaver](https://img.shields.io/badge/SystemWeaver-003D5B.svg?style=flat) ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000.svg?style=flat&logo=robot-framework&logoColor=white) ![GStreamer](https://img.shields.io/badge/GStreamer-0000FF.svg?style=flat)
+**Development Tools & Version Control**  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white) ![Gerrit](https://img.shields.io/badge/Gerrit-EEEEEE.svg?style=flat) ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=jira&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white) ![Zuul](https://img.shields.io/badge/Zuul-ED1C24.svg?style=flat) ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000.svg?style=flat&logo=robot-framework&logoColor=white)
+
+**Additional Technologies**  
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=openjdk&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=flat&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=flat&logo=blazor&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-512BD4.svg?style=flat&logo=dotnet&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=flat&logo=microsoft-azure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white)
 
 ---
 
 ## 🚀 Experience Highlights
+
+### **Embedded Software Developer** | Samim Group  
+*March 2019 – April 2023 (4 years)*
+- Designed and developed a comprehensive **hardware management system in C++** serving as the core platform for device monitoring and control
+- Developed **SNMP agent** using Agent++ and Agentx++ for network device management and monitoring
+- Created and maintained **embedded Linux software** using **Yocto Project** tools and methodologies across multiple product lines
+- Crafted custom **Yocto recipes, layers, and images** for diverse hardware platforms including ARM-based SoMs and custom boards
+- Integrated and configured open-source software components and libraries into Yocto-based systems
+- Optimized Yocto build process, resulting in **significantly faster build times** through parallel builds and ccache optimization
+- Integrated Yocto into development workflow using **GitLab** version control with automated build pipelines
+- Designed and built **custom Linux images** tailored to project requirements, including kernel configurations, root filesystems, and package selections
+- Developed comprehensive framework for **remote updates** of boards (System on Modules, Microcontrollers, FPGAs) with rollback capabilities
+- Created reusable **low-level libraries** for peripheral communications: **Ethernet**, **SPI**, **CAN**, **UART**, **I2C**
+- Developed **Code Generator and Metadata Parser** for automated device driver generation and SNMP MIB integration
+- Contributed to intercommunication systems by developing **Sound Card Driver** and implementing **Automatic Gain Control** for audio processing
+- Leveraged **WebRTC** for real-time audio processing and communication
+- Worked on **Video Switchers** using **BT1120 Protocol** and **GStreamer** for high-performance video routing
+- Designed and implemented **Linux PAM** (Pluggable Authentication Modules) for secure system authentication
+- Troubleshot and resolved complex issues related to Yocto build system, kernel, device drivers, bootloaders, and root filesystems
+- Configured and customized system settings including bootloaders (U-Boot), kernel parameters, and init systems (systemd)
+- Technologies: **Yocto/Bitbake**, **C++**, **CMake**, **swupdate**, **protobuf**, **Poco**, **boost**, **QT**, **REST API**, **GitLab CI/CD**
 
 ### **Consultant - Software Engineer** | Volvo Trucks (via Segula Technologies)  
 *May 2025 – Present*
@@ -66,25 +96,6 @@ Recognized for enhancing processes through **automation**, efficient development
 - Developed **scripts to generate Simulink models** based on DBC files
 - Supported other developers in building and testing HIL models for different vehicle features
 - Technologies: **dSpace AutomationDesk**, **ControlDesk**, **Python**, **Flask**, **Robot Framework**, **Agile Methodologies**
-
-### **Embedded Software Developer** | Samim Group  
-*March 2019 – April 2023*
-- Designed and developed a comprehensive **hardware management system in C++**
-- Developed **SNMP agent** using Agent++ and Agentx++
-- Created and maintained **embedded Linux software** using **Yocto Project** tools and methodologies
-- Crafted custom **Yocto recipes, layers, and images** for diverse hardware platforms
-- Integrated and configured open-source software components into Yocto-based systems
-- Optimized Yocto build process, resulting in **significantly faster build times**
-- Integrated Yocto into development workflow using **GitLab** version control
-- Designed and built **custom Linux images** tailored to project requirements
-- Developed framework for **remote updates** of boards (System on Modules, Microcontrollers, FPGAs)
-- Created reusable **low-level libraries** for peripheral communications: **Ethernet**, **SPI**, **CAN**, **UART**, **I2C**
-- Developed **Code Generator and Metadata Parser** for device drivers and SNMP
-- Contributed to intercommunication systems by developing **Sound Card Driver** and implementing **Automatic Gain Control**
-- Leveraged **WebRTC** for audio processing
-- Worked on **Video Switchers** using **BT1120 Protocol** and **GStreamer**
-- Designed and implemented **Linux PAM** (Pluggable Authentication Modules)
-- Technologies: **swupdate**, **CMake**, **protobuf**, **Poco**, **boost**, **QT**, **REST API**
 
 ### **Software Developer** | MATIRAN  
 *May 2017 – March 2019*
@@ -124,14 +135,23 @@ Recognized for enhancing processes through **automation**, efficient development
 
 ## 📌 Featured Projects
 
-- 🔹 **System Verification Framework** – Azure-based scalable verification platform with **SOVD/UDS protocols**, **SystemWeaver integration**, and **CANoe/CAPL automation** (Volvo Trucks)
-- 🔹 **HIL Automation Framework** – Comprehensive **dSpace + Simulink** framework with **Jenkins/Zuul/Gerrit** CI/CD pipelines and DBC-to-Simulink model generation (Volvo Cars)
-- 🔹 **Hardware Management System** – Modular embedded C++ platform with **SNMP agent** (Agent++/Agentx++) for hardware monitoring and control (Samim Group)
-- 🔹 **Remote Update Framework** – Secure **swupdate-based** solution for SoMs, FPGAs & embedded boards with rollback capabilities
-- 🔹 **Video Switcher (BT1120)** – High-speed video routing system using **C++**, **GStreamer**, and BT1120 protocol
-- 🔹 **IoT Gateway** – **Linux kernel customization** for TI AM335X with **SNAP7**, **MQTT**, and **MODBUS** protocol integration
-- 🔹 **Smart Card Tools** – Testing & communication libraries for smart cards and national ID cards across **C++**, **C#**, **Java**, **Python**, and **Android**
-- 🔹 **Kubernetes DevOps Platform** – Complete infrastructure with **GitLab CI/CD**, **Nexus**, monitoring stack (**Prometheus/Grafana**), and GPU-based HPA
+**🔸 Embedded Linux & Yocto Projects (Samim Group)**
+
+- **Hardware Management System** – Comprehensive embedded C++ platform with SNMP agent (Agent++/Agentx++) for hardware monitoring, control, and network management across diverse embedded devices
+- **Custom Yocto Linux Distributions** – Built tailored Linux images for ARM-based SoMs and custom hardware platforms with optimized boot times, custom kernel configurations, and integrated peripheral support
+- **Remote Update Framework** – Secure **swupdate-based** OTA solution for System on Modules, microcontrollers, and FPGAs with A/B partition scheme and automatic rollback on failure
+- **Video Switcher (BT1120)** – High-performance video routing system using **C++**, **GStreamer**, and BT1120 protocol for real-time video stream management and switching
+- **Low-Level Communication Libraries** – Reusable C++ libraries providing hardware abstraction for **CAN**, **SPI**, **UART**, **I2C**, and **Ethernet** peripherals with robust error handling
+- **Audio Processing System** – Intercommunication platform with custom **Sound Card Driver**, **Automatic Gain Control**, and **WebRTC** integration for real-time audio streaming
+- **Device Driver Code Generator** – Automated tool for generating Linux device drivers and SNMP MIB files from metadata, reducing development time and ensuring consistency
+- **Linux PAM Module** – Custom authentication module for secure system access control and user management
+
+**🔸 Additional Projects**
+
+- **IoT Gateway** – **Linux kernel customization** for TI AM335X with **SNAP7**, **MQTT**, and **MODBUS** protocol integration (FANAP)
+- **HIL Automation Framework** – Comprehensive **dSpace + Simulink** framework with **Jenkins/Zuul/Gerrit** CI/CD pipelines and DBC-to-Simulink model generation (Volvo Cars)
+- **System Verification Framework** – Azure-based scalable verification platform with **SOVD/UDS protocols**, **SystemWeaver integration**, and **CANoe/CAPL automation** (Volvo Trucks)
+- **Smart Card Tools** – Testing & communication libraries for smart cards and national ID cards across **C++**, **C#**, **Java**, **Python**, and **Android** (MATIRAN)
 
 ---
 
