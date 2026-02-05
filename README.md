@@ -52,27 +52,6 @@ Proficient in **Yocto/Bitbake**, **CMake**, **GStreamer**, **Qt**, **Boost**, **
 
 ## 🚀 Experience Highlights
 
-### **Embedded Software Developer** | Samim Group  
-*March 2019 – April 2023 (4 years)*
-- Designed and developed a comprehensive **hardware management system in C++** serving as the core platform for device monitoring and control
-- Developed **SNMP agent** using Agent++ and Agentx++ for network device management and monitoring
-- Created and maintained **embedded Linux software** using **Yocto Project** tools and methodologies across multiple product lines
-- Crafted custom **Yocto recipes, layers, and images** for diverse hardware platforms including ARM-based SoMs and custom boards
-- Integrated and configured open-source software components and libraries into Yocto-based systems
-- Optimized Yocto build process, achieving **30-40% faster build times** through parallel builds, ccache optimization, and shared state cache configuration
-- Integrated Yocto into development workflow using **GitLab** version control with automated build pipelines
-- Designed and built **custom Linux images** tailored to project requirements, including kernel configurations, root filesystems, and package selections
-- Developed comprehensive framework for **remote updates** of boards (System on Modules, Microcontrollers, FPGAs) with rollback capabilities
-- Created reusable **low-level libraries** for peripheral communications: **Ethernet**, **SPI**, **CAN**, **UART**, **I2C**
-- Developed **Code Generator and Metadata Parser** for automated device driver generation and SNMP MIB integration
-- Contributed to intercommunication systems by developing **Sound Card Driver** and implementing **Automatic Gain Control** for audio processing
-- Leveraged **WebRTC** for real-time audio processing and communication
-- Worked on **Video Switchers** using **BT1120 Protocol** and **GStreamer** for high-performance video routing
-- Designed and implemented **Linux PAM** (Pluggable Authentication Modules) for secure system authentication
-- Troubleshot and resolved complex issues related to Yocto build system, kernel, device drivers, bootloaders, and root filesystems
-- Configured and customized system settings including bootloaders (U-Boot), kernel parameters, and init systems (systemd)
-- Technologies: **Yocto/Bitbake**, **C++**, **CMake**, **swupdate**, **protobuf**, **Poco**, **boost**, **QT**, **REST API**, **GitLab CI/CD**
-
 ### **Consultant - Software Engineer** | Volvo Trucks (via Segula Technologies)  
 *May 2025 – Present*
 - Designed and developed **scalable System Verification Engineering solutions** to enhance both functional and non-functional system validation processes
@@ -96,6 +75,27 @@ Proficient in **Yocto/Bitbake**, **CMake**, **GStreamer**, **Qt**, **Boost**, **
 - Developed **scripts to generate Simulink models** based on DBC files
 - Supported other developers in building and testing HIL models for different vehicle features
 - Technologies: **dSpace AutomationDesk**, **ControlDesk**, **Python**, **Flask**, **Robot Framework**, **Agile Methodologies**
+
+### **Embedded Software Developer** | Samim Group  
+*March 2019 – April 2023 (4 years)*
+- Designed and developed a comprehensive **hardware management system in C++** serving as the core platform for device monitoring and control
+- Developed **SNMP agent** using Agent++ and Agentx++ for network device management and monitoring
+- Created and maintained **embedded Linux software** using **Yocto Project** tools and methodologies across multiple product lines
+- Crafted custom **Yocto recipes, layers, and images** for diverse hardware platforms including ARM-based SoMs and custom boards
+- Integrated and configured open-source software components and libraries into Yocto-based systems
+- Optimized Yocto build process, achieving **30-40% faster build times** through parallel builds, ccache optimization, and shared state cache configuration
+- Integrated Yocto into development workflow using **GitLab** version control with automated build pipelines
+- Designed and built **custom Linux images** tailored to project requirements, including kernel configurations, root filesystems, and package selections
+- Developed comprehensive framework for **remote updates** of boards (System on Modules, Microcontrollers, FPGAs) with rollback capabilities
+- Created reusable **low-level libraries** for peripheral communications: **Ethernet**, **SPI**, **CAN**, **UART**, **I2C**
+- Developed **Code Generator and Metadata Parser** for automated device driver generation and SNMP MIB integration
+- Contributed to intercommunication systems by developing **Sound Card Driver** and implementing **Automatic Gain Control** for audio processing
+- Leveraged **WebRTC** for real-time audio processing and communication
+- Worked on **Video Switchers** using **BT1120 Protocol** and **GStreamer** for high-performance video routing
+- Designed and implemented **Linux PAM** (Pluggable Authentication Modules) for secure system authentication
+- Troubleshot and resolved complex issues related to Yocto build system, kernel, device drivers, bootloaders, and root filesystems
+- Configured and customized system settings including bootloaders (U-Boot), kernel parameters, and init systems (systemd)
+- Technologies: **Yocto/Bitbake**, **C++**, **CMake**, **swupdate**, **protobuf**, **Poco**, **boost**, **QT**, **REST API**, **GitLab CI/CD**
 
 ### **Software Developer** | MATIRAN  
 *May 2017 – March 2019*
@@ -164,13 +164,6 @@ Proficient in **Yocto/Bitbake**, **CMake**, **GStreamer**, **Qt**, **Boost**, **
 **B.Sc. in Electronics** | Shahed University  
 *2008 – 2012*
 - Thesis: *Design and Simulation of FSK for Biomedical Implants*
-
----
-
-## 📊 GitHub Stats
-
-![Nader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nmarandi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nmarandi&layout=compact&theme=tokyonight)
 
 ---
 
